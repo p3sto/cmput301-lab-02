@@ -2,13 +2,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Amir Seman`
+- **CCID:** `aseman`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
 
+N/A
 ## Verbal Collaboration
 
 | Student Name | CCID      |
